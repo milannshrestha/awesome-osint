@@ -1,5 +1,5 @@
 
-* [Advangle](http://advangle.com)
+[Advangle](http://advangle.com)
 * [Aol](http://search.aol.com)
 * [Ask](http://www.ask.com)
 * [Bing](http://www.bing.com)
